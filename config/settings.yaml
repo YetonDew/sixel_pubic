@@ -1,0 +1,14 @@
+project_name: SIXEL
+environment: development
+
+paths:
+  inbox_raw: "_inbox_raw"
+  storage_root: "symulacja_DSM"
+  db_path: "data/sixel.db"
+
+gmail:
+  token_file: "config/token.json"
+  credentials_file: "config/credentials.json"
+
+openai:
+  model: "gpt-4o-mini"

@@ -1,0 +1,17 @@
+python-dotenv
+PyYAML
+openai
+
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-cloud-vision
+google-cloud-storage
+
+python-dateutil
+requests
+pytz
+
+streamlit
+
+pypdf

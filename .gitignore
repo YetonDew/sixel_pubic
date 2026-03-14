@@ -1,0 +1,32 @@
+# Python cache/build
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment and OS
+.env
+.DS_Store
+
+# Sensitive credentials
+config/credentials.json
+config/token.json
+config/sixel-ocr-*.json
+
+# Private/local data
+_inbox_raw/
+symulacja_DSM/
+data/clients.yaml
+sixel_db/database.sqlite3
+sixel_tools/wykaz_klientow.csv
+
+# Runtime artifacts
+*.log
+logs/
