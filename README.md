@@ -1,5 +1,7 @@
 # SIXEL - Smart Intelligent eXtraction & Email Logistics
 
+This is a personal project I started to help my mother-in-law, who runs an accounting business and often deals with email chaos when organizing documents into the correct folders. I decided to build SIXEL to automate that workflow: collect files from emails, classify them, and place them in the right location automatically, so the process is faster, cleaner, and less error-prone.
+
 SIXEL is a document management and accounting automation system that processes Gmail attachments and PDF files, classifies them with AI/OCR, and routes documents into a DSM-like folder structure.
 
 ## Main Features
